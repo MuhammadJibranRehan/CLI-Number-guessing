@@ -1,2 +1,2 @@
 # CLI-Number-guessing
-This is a CLI based quesing gae
+This is a CLI based guesing game
